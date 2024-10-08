@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0px;
+    
+}
+.contact-title{
+    color: black;
+   font-size: 40px;
+   margin-left: 20%;
+  
+}
+.navbar{
+    width: 100%;
+    height:50px;
+    background-color: aqua;
+}
+input{
+   margin-top: 10px;
+   width: 80%;
+   border-radius:5px;
+   border: 2px solid skyblue;
+    padding: 5px;
+
+}
+.formHead{
+ 
+    height: 50vh;
+}
+.form{
+    width: 500px;
+    margin: auto;
+   
+}
+.btn{
+    margin-top: 5px;
+    padding: 5px;
+    margin-left: 30%;
+    background-color: white;
+    border: 2px solid skyblue
+}
